@@ -4,7 +4,7 @@
 	position: relative;
 }
 
-#about, #projects, #contact {
+#about, #skills, #projects, #contact {
 	padding-top: 4rem;
 }
 
@@ -16,6 +16,7 @@
 .icon-block {
   padding: 0 15px;
 }
-.icon-block .material-icons {
-	font-size: inherit;
+
+.project-img {
+	height: 180px;
 }
